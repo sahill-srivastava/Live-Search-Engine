@@ -6,7 +6,6 @@ Built with JavaScript, Fetch API, Array Methods, Regex, and dynamic DOM renderin
 ------------------------------------------------------------
 
 ## 📸 Preview
-(Place your screenshot as preview.png)
 ![Preview](./preview.png)
 
 ------------------------------------------------------------
